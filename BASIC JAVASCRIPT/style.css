@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: blue;
+}
+#your-name{
+    background-color: rgb(60, 189, 146);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid white;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    width: 400px;
+
+}
+p{
+    color: blueviolet;
+}
+input,button{
+    background-color: rgba(240, 15, 45, 0.979);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
